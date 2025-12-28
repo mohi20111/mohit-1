@@ -1,0 +1,7 @@
+{
+  "name": "History by Mohit Awasthi - India's History MCQ Hub",
+  "description": "A comprehensive platform for History MCQs from Indian Assistant Professor, NET, and SET exams, curated by Mohit Awasthi featuring Hindi content and official explanations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
